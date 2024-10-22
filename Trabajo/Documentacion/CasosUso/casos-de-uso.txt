@@ -11,7 +11,7 @@ cliente
 
 administrador
 	
-	- CRUD(cambios, bajas y consultas) viaje ------->1ra
+	- CRUD(cambios, altas, bajas y consultas) viaje ------->1ra
 	- CRUD aviones
 
 staff de check-in
