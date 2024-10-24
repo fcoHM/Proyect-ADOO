@@ -1,0 +1,21 @@
+casos de uso:
+
+cliente 
+	- rentar un avión 
+
+	- ver boletos
+	- compra boletos ------>1ra 
+	- ver vuelos ----------->1ra
+	- ver asientos disponibles -------> 1ra
+	- cancelar el viaje 
+
+administrador
+	
+	- CRUD(cambios, altas, bajas y consultas) viaje ------->1ra
+	- CRUD aviones
+
+staff de check-in
+
+	- consultar boletos 
+	- consultar pasajeros
+	- consultar los vuelos
